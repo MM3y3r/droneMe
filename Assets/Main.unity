@@ -228,7 +228,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: SHARING
+  m_Text: TAKE SELFIE
 --- !u!222 &664704654
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -994,7 +994,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: NATIVE UI
+  m_Text: CALL DRONE
 --- !u!222 &1482337688
 CanvasRenderer:
   m_ObjectHideFlags: 0
